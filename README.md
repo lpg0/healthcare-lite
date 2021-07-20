@@ -12,7 +12,7 @@ This projects is a “Lite” version of healthcare.gov by following the instruc
 
 Due diligence for any cloud project starts with setting a budget to limit resource usage overflow. Always be sure to consistently change the AWS region to what is physically closest (as seen in the top right of the dashboard). Create a cost budget, giving adequate notification metrics. It is recommended that an email notification would be sent after 75% of the indicated budget. Below is a screenshot of the budget I created.
 
-![budget](C:\Users\lukep\Desktop\Projects\UVA Engineering Items\4740 Cloud\pa1\pa1-budget.png)
+![pa1-budget](https://raw.githubusercontent.com/lpg0/healthcare-lite/main/img/pa1-budget.png)
 
 ### Strategy
 
