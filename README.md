@@ -18,9 +18,9 @@ Due diligence for any cloud project starts with setting a budget to limit resour
 
 The first step was creating a working frontend using a local SQL server. The frontend for the site was created using a “Microsoft Windows Server 2016 with SQL Server 2017 Express” EC2 instance. The default size was changed to "t3a.xlarge" for cost-feature maximization. The second step was to port the database functionality tested in part 1 to the cloud. An RDS “Microsoft SQL Server” was used to test fake health information data. Below is a sample SELECT query to test the frontend display, and the final project being displayed on localhost.
 
-![pa1-sql-server](C:\Users\lukep\Desktop\Projects\UVA Engineering Items\4740 Cloud\pa1\pa1-sql-server.png)
+![pa1-sql-server](https://raw.githubusercontent.com/lpg0/healthcare-lite/main/img/pa1-sql-server.png)
 
-![pa1-web](C:\Users\lukep\Desktop\Projects\UVA Engineering Items\4740 Cloud\pa1\pa1-web.png)
+![pa1-web](https://raw.githubusercontent.com/lpg0/healthcare-lite/main/img/pa1-web.png)
 
 ### Notes
 
