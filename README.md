@@ -1,6 +1,6 @@
 # 🏥 Healthcare Lite
 
-### Goals 
+### 🌟 Goals 🌟 
 
 Gain hands-on experience writing an IaaS cloud application, specifically by using Amazon Web Services (AWS). Secondary goals are to gain experience administering a Windows Server machine and to gain/reinforce experience with SQL and Web programming. 
 
